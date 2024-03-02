@@ -1,2 +1,13 @@
-.vscode
+.vscode/
 1.sh
+__pycache__/
+.idea/
+lsbaws/
+Lib/
+site-packages/
+*.exe
+*.bat
+bin/
+lib/
+venv/
+env/
