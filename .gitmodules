@@ -316,3 +316,6 @@
 [submodule "pi22-2/PI22-2ChebykinArtem"]
 	path = pi22-2/PI22-2ChebykinArtem
 	url = https://github.com/diploud72/PI22-2ChebykinArtem
+[submodule "pi22-1/Ivlev-fa-np-practice"]
+	path = pi22-1/Ivlev-fa-np-practice
+	url = https://github.com/Ivlev2004/Ivlev-fa-np-practice
