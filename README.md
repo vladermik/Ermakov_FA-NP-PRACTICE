@@ -70,11 +70,11 @@
 | Лабораторная работа 2_threaded_server  | 2_threaded_server   (threading )   | 1    |
 | -  | Веб-сервер HTTP  Часть3 (fork)    | 1    |
 | -  | Веб-сервер HTTP  Часть3 (удалиь зомби)    | 1    |
+| Лабораторная работа 3_Parallelism  | multiprocessing   | 1    |
+| -  | (fork + join)  | 1    |
 | Лабораторная работа 8_Assymmetric  |  SSL  | 1    |
 | -  | ftp, example  | 1    |
 | -  | сервер (asyncio.io)  | 1    |
-| Лабораторная работа 3_Parallelism  | multiprocessing   | 1    |
-| -  | задания  | 1    |
 | Дополнительный балл  | ~~настройка env + pip~~   | 1    | 
 
 
