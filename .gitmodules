@@ -325,3 +325,6 @@
 [submodule "pi22-4/Malikov_fa-np-pr"]
 	path = pi22-4/Malikov_fa-np-pr
 	url = https://github.com/medwejonok/Malikov_fa-np-pr
+[submodule "pi22-3/tanya-pyzhyanova"]
+	path = pi22-3/tanya-pyzhyanova
+	url = https://github.com/Adrenaline22/tanya-pyzhyanova
