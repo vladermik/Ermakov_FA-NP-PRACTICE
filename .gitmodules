@@ -319,3 +319,9 @@
 [submodule "pi22-1/Ivlev-fa-np-practice"]
 	path = pi22-1/Ivlev-fa-np-practice
 	url = https://github.com/Ivlev2004/Ivlev-fa-np-practice
+[submodule "pi22-3/Muk-Pi22-3"]
+	path = pi22-3/Muk-Pi22-3
+	url = https://github.com/MukhinVladislav/Muk-Pi22-3
+[submodule "pi22-4/Malikov_fa-np-pr"]
+	path = pi22-4/Malikov_fa-np-pr
+	url = https://github.com/medwejonok/Malikov_fa-np-pr
