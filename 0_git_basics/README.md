@@ -27,6 +27,10 @@ git commit -m "КАКОЙ-ТО КОММИТ"
       добавить venv/ в .gitignore
       git rm -r --cached venv
 
+Добавить субмодуль в проект:
+
+      git submodule add https://github.com/fa-python-network/3_Parallelism
+
 ## Начало
 
 1. Поставь репозиторию звездочку
