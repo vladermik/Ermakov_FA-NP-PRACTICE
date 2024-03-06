@@ -61,7 +61,6 @@
 | -   | сделать форк этого репозитория и пушить в него| 1    |
 | -   | настроить .gitignore, удалить лишнее| 1    |
 | Лабораторная работа 1_echo_server   | TCP-потоковый сервер + telnet(putty)     | 1    |
-| -   | сервер потока видеофайла (ficlient+fiserver)     | 1    |
 | -   | сервер видеопотока из веб-камеры (сделать скриншот transmited+recieving client)     | 1    |
 | Лабораторная работа 5_FTP_server  | ftp-сервер (файлы output+file1)     | 1    |
 | Лабораторная работа 4_requests  | Postman  (запросы к ruz.fa.ru)   | 1    |
@@ -71,11 +70,12 @@
 | Лабораторная работа 2_threaded_server  | 2_threaded_server   (threading )   | 1    |
 | -  | Веб-сервер HTTP  Часть3 (fork)    | 1    |
 | -  | Веб-сервер HTTP  Часть3 (удалиь зомби)    | 1    |
-| Лабораторная работа 8_Assymmetric  | celery   | 1    |
+| Лабораторная работа 8_Assymmetric  |  SSL  | 1    |
 | -  | ftp, example  | 1    |
+| -  | сервер (asyncio.io)  | 1    |
 | Лабораторная работа 3_Parallelism  | multiprocessing   | 1    |
 | -  | задания  | 1    |
-| Дополнительный балл  | настройка env + pip   | 1    | 
+| Дополнительный балл  | ~~настройка env + pip~~   | 1    | 
 
 
 
