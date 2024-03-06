@@ -75,7 +75,7 @@
 | -  | ftp, example  | 1    |
 | Лабораторная работа 3_Parallelism  | multiprocessing   | 1    |
 | -  | задания  | 1    |
- 
+| Дополнительный балл  | настройка env + pip   | 1    | 
 
 
 
