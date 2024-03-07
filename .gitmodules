@@ -1,9 +1,3 @@
-[submodule "2_threaded_server"]
-	path = 2_threaded_server
-	url = https://github.com/VladimirAndropov/2_threaded_server.git
-[submodule "1_echo_server"]
-	path = 1_echo_server
-	url = https://github.com/VladimirAndropov/1_echo_server.git
 [submodule "pi22-1/Yak"]
 	path = pi22-1/Yak
 	url = https://github.com/YakimkinDaniil/Yak
@@ -88,15 +82,6 @@
 [submodule "pi22-2/proz"]
 	path = pi22-2/proz
 	url = https://github.com/Cpsuls/proz
-[submodule "0_git_basics"]
-	path = 0_git_basics
-	url = https://github.com/VladimirAndropov/0_git_basics
-[submodule "4_requests"]
-	path = 4_requests
-	url = https://github.com/VladimirAndropov/4_requests
-[submodule "5_FTP_server"]
-	path = 5_FTP_server
-	url = https://github.com/VladimirAndropov/5_FTP_server.git
 [submodule "pi22-3/Kol"]
 	path = pi22-3/Kol
 	url = https://github.com/KolchevaAngelina/Kol
