@@ -4,9 +4,6 @@
 [submodule "1_echo_server"]
 	path = 1_echo_server
 	url = https://github.com/VladimirAndropov/1_echo_server.git
-[submodule "6_Web_server"]
-	path = 6_Web_server
-	url = https://github.com/VladimirAndropov/6_Web_server
 [submodule "pi22-1/Yak"]
 	path = pi22-1/Yak
 	url = https://github.com/YakimkinDaniil/Yak
@@ -223,9 +220,6 @@
 [submodule "pi22-4/urlova"]
 	path = pi22-4/urlova
 	url = https://github.com/Eliaveta88/urlova
-[submodule "temp/6_Web_server"]
-	path = temp/6_Web_server
-	url = https://github.com/VladimirAndropov/6_Web_server
 [submodule "pi22-3/Kas"]
 	path = pi22-3/Kas
 	url = https://github.com/MashaK04/Kas/
