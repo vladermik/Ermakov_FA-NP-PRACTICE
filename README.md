@@ -71,7 +71,7 @@
 | [Лабораторная работа 04.03-10.03](2_threaded_server)  | 2_threaded_server   (threading )   | 1    |
 | -  | Веб-сервер HTTP  Часть3 (fork)    | 1    |
 | -  | Веб-сервер HTTP  Часть3 (зомби)    | 1    |
-| [Лабораторная работа 11.03-17.03](7_TCP_server)  | TCP-2threading-сервер (скриншот окон RECEIVING и TRANSMITTED)     | 1    |
+| [Лабораторная работа 11.03-17.03](7_TCP_server)  | UDP\TCP-2threading-сервер (скриншот окон RECEIVING и TRANSMITTED)     | 1    |
 | [Лабораторная работа 18.03-24.03](3_Parallelism)  | multiprocessing   | 1    |
 | -  | (join)  | 1    |
 | [Лабораторная работа 25.03-31.03](8_Assymmetric_ciphers_2022)  |  SSL  | 1    |
