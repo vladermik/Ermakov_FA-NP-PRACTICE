@@ -57,13 +57,11 @@
 
 | № п/п дата | Вид учебной деятельности| Максимум  за семестр |
 | :---         |     :---:      |          ---: |
-| [Лабораторная работа-0 05.02-11.02](0_git_basics/README.md)  | Работа с Git     | 1    |
+| [Аудиторная работа 05.02-11.02](0_git_basics/README.md)  | Работа с Git     | 1    |
 | -   | запушить изменения в проект 1_echo на Git     | 1    |
 | -   | примонтировать проект 1_echo как субмодуль| 1    |
 | -   | сделать форк этого репозитория и пушить в него| 1    |
 | -   | настроить .gitignore, удалить лишнее| 1    |
-| -  | настройка env   | 1    |
-| -  | настройка pip   | 1    |
 | [Лабораторная работа-1.1 12.02-18.02](1_echo_server/2022/README.md)   |  echo-сервер    | 1    |
 | [Лабораторная работа-1.2](1_echo_server/2022/README.md)   | TCP-клиент + telnet\putty     | 1    |
 | [Лабораторная работа-1.3](1_echo_server/README.md)   |  live stream video server    | 1    |
@@ -75,23 +73,26 @@
 | [Лабораторная работа-6.2](6_Web_server/README2.md)   | Веб-сервер HTTP  Часть2 (flask+ws2)  | 1    |
 | [Лабораторная работа-6.3](6_Web_server/README2.md)   | Веб-сервер HTTP  Часть2 (application)  | 1    |
 | [Лабораторная работа-2.1 04.03-10.03](6_Web_server/README3.md)   | threaded Веб-сервер HTTP  Часть3 (fork)    | 1    |
-| [Лабораторная работа-2.2 ](2_threaded_server/2022/README.md)  | threaded_server    | 1    |
+| [Лабораторная работа-2.2 ](2_threaded_server/2022/README.md)  | threaded server    | 1    |
+| [Лабораторная работа-2.3 ](2_threaded_server/README.md)  | threaded+async server    | 1    |
 | [Лабораторная работа-7.1 11.03-17.03](7_TCP_server)  | UDP\TCP-threaded-сервер      | 1    |
 | [Лабораторная работа-7.2 ](7_TCP_server)  | UDP\TCP-threaded-клиент     | 1    |
-| [Лабораторная работа-3.1 18.03-24.03](3_Parallelism)  | multiprocessing   | 1    |
+| ---------------------- |Вторая половина семестра|----------------------|
+| Аудиторная работа  | настройка env   | 1    |
+| -  | настройка pip   | 1    |
+| [Лабораторная работа-3.1](3_Parallelism)  | multiprocessing   | 1    |
 | [Лабораторная работа-3.2 ](3_Parallelism) | перемножение матриц  | 1    |
-| [Лабораторная работа-8.1 25.03-31.03](8_Assymmetric_ciphers_2022/README.md)  |  SSL  | 1    |
-| [Лабораторная работа-8.2 ](8_Assymmetric_ciphers_2022/ftp)   | ftp, example  | 1    |
-| [Лабораторная работа-8.3 ](8_Assymmetric_ciphers_2022/ftp)   | сервер (asyncio.io)  | 1    |
-| [Лабораторная работа-9 ](9_flask_app_2022/README.md)   |  app в docker  |1    |
-| [Лабораторная работа-10 ](10_Celery_Rabbit/README.md)   | Celery_Rabbit в docker  | 1    |
-| [Лабораторная работа-11.1 ](10_Celery_Rabbit/README.md)   | apache  |1    |
-| [Лабораторная работа-11.2 ](10_Celery_Rabbit/README.md)   | nginx  |1    |
-| [Лабораторная работа-11.3 ](10_Celery_Rabbit/README.md)   | балансировка в docker  | 1    |
-| [Лабораторная работа-12 ](10_Celery_Rabbit/README.md)   | Celery Workers + Queue  |1    |
-| [Лабораторная работа-13 ](10_Celery_Rabbit/README.md)   |  1_echo_server в docker |1    |
-| [Лабораторная работа-14 ](10_Celery_Rabbit/README.md)   |  5_FTP_server в docker |1    |
-| [Лабораторная работа-15 ](10_Celery_Rabbit/README.md)   |  6_Web_server part1 в docker |1    |
+| [Лабораторная работа-8.1](8_Assymmetric_ciphers_2022/README.md)  |  SSL  | 1    |
+| [Лабораторная работа-8.2 ](8_Assymmetric_ciphers_2022/ftp)   | сервер (asyncio.io)  | 1    |
+| [Лабораторная работа-9.1 ](9_flask_app_2022/README.md)   |  app в docker  |1    |
+| [Лабораторная работа-9.2 ](9_flask_app_2022/README.md)   |  1_echo_server в docker |1    |
+| [Лабораторная работа-9.3 ](9_flask_app_2022/README.md)   |  5_FTP_server в docker |1    |
+| [Лабораторная работа-9.4 ](9_flask_app_2022/README.md)   |  6_Web_server в docker |1    |
+| [Лабораторная работа-9.5 ](11_Celery_Rabbit/README.md)   | Celery_Rabbit  | 1    |
+| [Лабораторная работа-10.1 ](10_apache_nginx/README.md)   | apache  |1    |
+| [Лабораторная работа-10.2 ](10_apache_nginx/README.md)   | nginx  |1    |
+| [Лабораторная работа-11.1 ](11_Celery_Rabbit/README.md)   | балансировка в docker  | 1    |
+| [Лабораторная работа-11.2 ](11_Celery_Rabbit/README.md)   | Celery Workers + Queue  |1    |
 | -  | Тестовые опросы  | 5    | 
 
 
