@@ -79,19 +79,19 @@
 | [Лабораторная работа 18.03-24.03](3_Parallelism)  | multiprocessing   | 1    |
 | [Лабораторная работа ](3_Parallelism) | перемножение матриц  | 1    |
 | [Лабораторная работа 25.03-31.03](8_Assymmetric_ciphers_2022/README.md)  |  SSL  | 1    |
-| [Лабораторная работа 25.03-31.03](8_Assymmetric_ciphers_2022/ftp)   | ftp, example  | 1    |
-| -  | сервер (asyncio.io)  | 1    |
-| Лабораторная работа  | настройка env + pip   | 1    |
+| [Лабораторная работа ](8_Assymmetric_ciphers_2022/ftp)   | ftp, example  | 1    |
+| [Лабораторная работа ](8_Assymmetric_ciphers_2022/ftp)   | сервер (asyncio.io)  | 1    |
+| -  | настройка env + pip   | 1    |
 | [Лабораторная работа ](9_flask_app_2022/README.md)   |  app в docker  |1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   | Celery_Rabbit в docker  | 1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   | apache  |1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   | nginx  |1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   | балансировка в docker  | 1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   | Celery Workers + Queue  |1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   |  1_echo_server в docker |1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   |  5_FTP_server в docker |1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   |  6_Web_server part1 в docker |1    |
-| [Лабораторная работа 25.03-31.03](10_Celery_Rabbit/README.md)   |  6_Web_server part2 в docker |1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   | Celery_Rabbit в docker  | 1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   | apache  |1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   | nginx  |1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   | балансировка в docker  | 1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   | Celery Workers + Queue  |1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   |  1_echo_server в docker |1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   |  5_FTP_server в docker |1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   |  6_Web_server part1 в docker |1    |
+| [Лабораторная работа ](10_Celery_Rabbit/README.md)   |  6_Web_server part2 в docker |1    |
 | -  | Тестовые опросы  | 5    | 
 
 
