@@ -84,13 +84,13 @@
 | [Лабораторная работа-3.2 ](3_Parallelism) | перемножение матриц  | 1    |
 | [Лабораторная работа-8.1](8_Assymmetric_ciphers_2022/README.md)  |  SSL  | 1    |
 | [Лабораторная работа-8.2 ](8_Assymmetric_ciphers_2022/ftp)   | сервер (asyncio.io)  | 1    |
-| [Лабораторная работа-9.1 ](9_flask_app_2022/README.md)   |  app в docker  |1    |
-| [Лабораторная работа-9.2 ](9_flask_app_2022/README.md)   |  1_echo_server в docker |1    |
-| [Лабораторная работа-9.3 ](9_flask_app_2022/README.md)   |  5_FTP_server в docker |1    |
-| [Лабораторная работа-9.4 ](9_flask_app_2022/README.md)   |  6_Web_server в docker |1    |
-| [Лабораторная работа-9.5 ](11_Celery_Rabbit/README.md)   | Celery_Rabbit  | 1    |
 | [Лабораторная работа-10.1 ](10_apache_nginx/README.md)   | apache  |1    |
 | [Лабораторная работа-10.2 ](10_apache_nginx/README.md)   | nginx  |1    |
+| [Лабораторная работа-13.1 ](13_flask_app_2022/README.md)   |  app в docker  |1    |
+| [Лабораторная работа-13.2 ](13_flask_app_2022/README.md)   |  1_echo_server в docker |1    |
+| [Лабораторная работа-13.3 ](13_flask_app_2022/README.md)   |  5_FTP_server в docker |1    |
+| [Лабораторная работа-13.4 ](13_flask_app_2022/README.md)   |  6_Web_server в docker |1    |
+| [Лабораторная работа-13.5 ](11_Celery_Rabbit/README.md)   | Celery_Rabbit  | 1    |
 | [Лабораторная работа-11.1 ](11_Celery_Rabbit/README.md)   | балансировка в docker  | 1    |
 | [Лабораторная работа-11.2 ](11_Celery_Rabbit/README.md)   | Celery Workers + Queue  |1    |
 | -  | Тестовые опросы  | 5    | 
