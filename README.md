@@ -71,11 +71,11 @@
 | [Лекция NP4.5](https://youtu.be/AWi9_OEOojI?si=PtUD0SV0z0e61_ct) | [ Лабораторная работа-6.1](https://github.com/fa-python-network/6_Web_server)   | Низкоуровневая работа с веб  | 1    |
 | Семинар NP4.5 от 26.02-3.03  | [  Лабораторная работа-6.2](6_Web_server/README1.md)  | Веб-сервер HTTP Часть1 (webserver1)  | 1    |
 | Домашнее задание NP4.5  | [ Лабораторная работа-6.3](6_Web_server/README2.md)   | Веб-сервер HTTP  Часть2 (фреймворк+вебсервер)  | 1    |
-|  [Лекция NP2.2](https://youtu.be/x4MPG22JTtI?si=Nf0eyJpVU-0sitqW)    |[Лабораторная работа-3.1](https://github.com/fa-python-network/3_Parallelism)  | multiprocessing   | 1    |
-| Семинар NP2.2 | [  Лабораторная работа-3.2](6_Web_server/README3.md)   |  Веб-сервер HTTP  Часть3 (multiprocess)    | 1    |
 | [Лекция NP2.1](https://youtu.be/_FYcL3tYKec?si=k3cdS1k2qlsWds6E)  | [ Лабораторная работа-2.2 ](https://github.com/fa-python-network/2_threaded_server)  | threaded server    | 1    |
 | Семинар NP2.1 от 11.03-17.03  | [  Лабораторная работа-7.1](https://github.com/VladimirAndropov/7_TCP_server)  | UDP/TCP-threaded-сервер      | 1    |
 | Домашнее задание NP2.1  | [ Лабораторная работа-2.1 ](2_threaded_server/README.md)  | threaded+async web-server    | 1    |
+|  [Лекция NP2.2](https://youtu.be/x4MPG22JTtI?si=Nf0eyJpVU-0sitqW)    |[Лабораторная работа-3.1](https://github.com/fa-python-network/3_Parallelism)  | multiprocessing   | 1    |
+| Семинар NP2.2 | [  Лабораторная работа-3.2](6_Web_server/README3.md)   |  Веб-сервер HTTP  Часть3 (multiprocess)    | 1    |
 
  ## Вторая половина семестра
 | Cеминар/Лекция дата  |  № п/п  | Вид учебной деятельности| Максимум  за семестр |
