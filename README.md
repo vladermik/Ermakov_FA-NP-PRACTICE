@@ -56,26 +56,26 @@
 
 | Cеминар/Лекция дата  |  № п/п  | Вид учебной деятельности| Максимум  за семестр |
 | :---         |     :---:      |      :---:      |          ---: |
-|  [Лекция DO1.0](https://youtu.be/HZxQbtYhBYs?si=g7YtSI9QijMIMDlW)   |[ Лабораторная работа-0.1 ](0_git_basics/README.md)  | Работа с Git     | 1    |
-| [Лекция DO1.3](https://youtu.be/CE2Ek2dNQLE?si=zRX58WLV3zv-o2Nn)  | [Лабораторная работа-0.2](https://github.com/fa-python-network/0_git_basics)   | сделать форк этого репозитория и открыть его в IDE| 1    |
-| [Лекция DO1.1](https://youtu.be/TZJKKLTi8b4?si=C3X4B7ikW8B7QjbE)   | Лабораторная работа-0.3   | запушить изменения в проект 1_echo на github     | 1    |
-|  Домашнее задание DO1.4   | [ Лабораторная работа-0.4](7_TCP_server)   | настроить .gitignore, удалить лишнее| 1    |
-| Семинар DO1.0 от 05.02-11.02  | [ Лабораторная работа-0.5 ](7_TCP_server/README.md)  | субмодуль git submodule     | 1    |
-|  [Лекция NP1.1](https://youtu.be/UTalhmE_WcI?si=jqIVOyhYmaLaeufX)   |[ Лабораторная работа-1.1](https://github.com/fa-python-network/1_echo_server)   | echo-server     | 1    |
-|  Семинар NP1.1 от 12.02-18.02   |[ Лабораторная работа-1.2 ](1_echo_server/задание2/README.md)   |  echo-client  + telnet/putty   | 1    |
-| Домашнее задание NP1.1  | [ Лабораторная работа-1.3](1_echo_server/README.md)   |  live stream video server    | 1    |
-|  Семинар NP1.2    |[Лабораторная работа-5.1](5_FTP_server/README.md)  | ftp-сервер (файлы output+file1)     | 1    |
-|  Домашнее задание NP1.2   |[ Лабораторная работа-5.2](https://github.com/fa-python-network/5_FTP_server)  | файловый менеджер    | 1    |
-| Семинар NP4.4 от 19.02-25.02  | [  Лабораторная работа-4.1](4_requests)  | Postman  (запросы к ruz.fa.ru и к echo-server)   | 1    |
-| [Лекция NP4.4](https://youtu.be/mtq-NRC5Wmk?si=5Mq4c4FXd9ridGSg)  | [ Лабораторная работа-4.2](4_requests)   | код http-клиента из Postman   | 1    |
-| [Лекция NP4.5](https://youtu.be/AWi9_OEOojI?si=PtUD0SV0z0e61_ct) | [ Лабораторная работа-6.1](https://github.com/fa-python-network/6_Web_server)   | Низкоуровневая работа с веб  | 1    |
-| Семинар NP4.5 от 26.02-3.03  | [  Лабораторная работа-6.2](6_Web_server/README1.md)  | Веб-сервер HTTP Часть1 (webserver1)  | 1    |
-| Домашнее задание NP4.5  | [ Лабораторная работа-6.3](6_Web_server/README2.md)   | Веб-сервер HTTP  Часть2 (фреймворк+вебсервер)  | 1    |
-| [Лекция NP2.1](https://youtu.be/_FYcL3tYKec?si=k3cdS1k2qlsWds6E)  | [ Лабораторная работа-2.2 ](https://github.com/fa-python-network/2_threaded_server)  | threaded server    | 1    |
-| Семинар NP2.1 от 11.03-17.03  | [  Лабораторная работа-7.1](https://github.com/VladimirAndropov/7_TCP_server)  | UDP/TCP-threaded-сервер      | 1    |
-| Домашнее задание NP2.1  | [ Лабораторная работа-2.1 ](2_threaded_server/README.md)  | threaded+async web-server    | 1    |
-|  [Лекция NP2.2](https://youtu.be/x4MPG22JTtI?si=Nf0eyJpVU-0sitqW)    |[Лабораторная работа-3.1](https://github.com/fa-python-network/3_Parallelism)  | multiprocessing   | 1    |
-| Семинар NP2.2 | [  Лабораторная работа-3.2](6_Web_server/README3.md)   |  Веб-сервер HTTP  Часть3 (multiprocess)    | 1    |
+|  [Лекция DO1.0](https://youtu.be/HZxQbtYhBYs?si=g7YtSI9QijMIMDlW)   |[ Лабораторная работа-0.1 ](0_git_basics/README.md)  | Работа с Git     | 3    |
+| [Лекция DO1.3](https://youtu.be/CE2Ek2dNQLE?si=zRX58WLV3zv-o2Nn)  | [Лабораторная работа-0.2](https://github.com/fa-python-network/0_git_basics)   | сделать форк этого репозитория и открыть его в IDE| -    |
+| [Лекция DO1.1](https://youtu.be/TZJKKLTi8b4?si=C3X4B7ikW8B7QjbE)   | Лабораторная работа-0.3   | запушить изменения в проект 1_echo на github     | -    |
+|  Домашнее задание DO1.4   | [ Лабораторная работа-0.4](7_TCP_server)   | настроить .gitignore, удалить лишнее| 2    |
+| Семинар DO1.0 от 05.02-11.02  | [ Лабораторная работа-0.5 ](7_TCP_server/README.md)  | субмодуль git submodule     | -    |
+|  [Лекция NP1.1](https://youtu.be/UTalhmE_WcI?si=jqIVOyhYmaLaeufX)   |[ Лабораторная работа-1.1](https://github.com/fa-python-network/1_echo_server)   | echo-server     | 3    |
+|  Семинар NP1.1 от 12.02-18.02   |[ Лабораторная работа-1.2 ](1_echo_server/задание2/README.md)   |  echo-client  + telnet/putty   | -    |
+| Домашнее задание NP1.1  | [ Лабораторная работа-1.3](1_echo_server/README.md)   |  live stream video server    | -    |
+|  Семинар NP1.2    |[Лабораторная работа-5.1](5_FTP_server/README.md)  | ftp-сервер (файлы output+file1)     | -    |
+|  Домашнее задание NP1.2   |[ Лабораторная работа-5.2](https://github.com/fa-python-network/5_FTP_server)  | файловый менеджер    | 2    |
+| Семинар NP4.4 от 19.02-25.02  | [  Лабораторная работа-4.1](4_requests)  | Postman  (запросы к ruz.fa.ru и к echo-server)   | -    |
+| [Лекция NP4.4](https://youtu.be/mtq-NRC5Wmk?si=5Mq4c4FXd9ridGSg)  | [ Лабораторная работа-4.2](4_requests)   | код http-клиента из Postman   | 2    |
+| [Лекция NP4.5](https://youtu.be/AWi9_OEOojI?si=PtUD0SV0z0e61_ct) | [ Лабораторная работа-6.1](https://github.com/fa-python-network/6_Web_server)   | Низкоуровневая работа с веб  | 3    |
+| Семинар NP4.5 от 26.02-3.03  | [  Лабораторная работа-6.2](6_Web_server/README1.md)  | Веб-сервер HTTP Часть1 (webserver1)  | -    |
+| Домашнее задание NP4.5  | [ Лабораторная работа-6.3](6_Web_server/README2.md)   | Веб-сервер HTTP  Часть2 (фреймворк+вебсервер)  | -    |
+| [Лекция NP2.1](https://youtu.be/_FYcL3tYKec?si=k3cdS1k2qlsWds6E)  | [ Лабораторная работа-2.2 ](https://github.com/fa-python-network/2_threaded_server)  | threaded server    | 3    |
+| Семинар NP2.1 от 11.03-17.03  | [  Лабораторная работа-7.1](https://github.com/VladimirAndropov/7_TCP_server)  | UDP/TCP-threaded-сервер      | -    |
+| Домашнее задание NP2.1  | [ Лабораторная работа-2.1 ](2_threaded_server/README.md)  | threaded+async web-server    | -    |
+|  [Лекция NP2.2](https://youtu.be/x4MPG22JTtI?si=Nf0eyJpVU-0sitqW)    |[Лабораторная работа-3.1](https://github.com/fa-python-network/3_Parallelism)  | multiprocessing   | 2    |
+| Семинар NP2.2 | [  Лабораторная работа-3.2](6_Web_server/README3.md)   |  Веб-сервер HTTP  Часть3 (multiprocess)    | -    |
 
  ## Вторая половина семестра
 | Cеминар/Лекция дата  |  № п/п  | Вид учебной деятельности| Максимум  за семестр |
@@ -83,18 +83,18 @@
 |  [Лекция DO2.1](https://youtu.be/b9tXQsZPJOE?si=dor0L5v5Sr1lUxiz)   |Лабораторная работа-0.7  | настройка pip   | 1    |
 | [Лекция DO2.2](https://youtu.be/oKqTB2nJ-Yc?si=T9ACb0-e-6RM-ao9)| Лабораторная работа-0.6  | настройка env   | 1    |
 | [Лекция NP4.1](https://youtu.be/wdMx35irNKE?si=0jtSv3UgTjmweXLF)   | [Лабораторная работа-10.1 ](10_apache_nginx/README.md)   | apache  |1    |
-| [Лекция NP4.2](https://youtu.be/UpS5s4z6odo?si=a4xe8yusvBcZpzGm)  | [Лабораторная работа-10.2 ](10_apache_nginx/README.md)   | nginx  |1    |
-|  Семинар 8.1   |[Лабораторная работа-8.1](8_Assymmetric_ciphers_2022/README.md)  |  Lets_encrypt  | 1    |
-| Лекция  | [Лабораторная работа-8.2 ](https://github.com/fa-python-network/7_Symmetric_ciphers)   | Основные алгоритмы синхронного шифрования  | 1    |
-| Домашнее задание 8.1  | [Лабораторная работа-8.3 ](https://github.com/fa-python-network/8_Assymmetric_ciphers)   | Алгоритмы асимметричного шифрования  | 1    |
-| Домашнее задание NP2.2   | [Лабораторная работа-3.2 ](https://github.com/fa-python-network/4_asyncio_server) | Асинхронный сервер  | 1    |
-|   [Лекция DO2.3](https://youtu.be/vd609d2Wc5E?si=-ejWPgaR3afhioZd)   |[Лабораторная работа-13.1 ](https://github.com/fa-python-network/9_flask_app)   |  Создание микросервиса  |1    |
-| Семинар DO2.3    | [Лабораторная работа-13.2 ](13_flask_app_2022/README.md)   |  1_echo_server в docker |1    |
-| Семинар DO2.3   | [Лабораторная работа-13.3 ](13_flask_app_2022/README.md)   |  5_FTP_server в docker |1    |
-| Семинар DO2.3   | [Лабораторная работа-13.4 ](13_flask_app_2022/README.md)   |  6_Web_server в docker |1    |
-|  Семинар DO2.4     |[Лабораторная работа-13.5 ](11_Celery_Rabbit/README.md)   | Celery_Rabbit  | 1    |
-|  [Лекция NP4.3](https://youtu.be/ZyGfUllQ34I?si=5ZcWVlZNN-1_qucG)   |Лабораторная работа-11.1    | балансировка в docker  | 1    |
-|  Семинар DO2.5    |[Лабораторная работа-11.2 ](11_Celery_Rabbit/README.md)   | Celery Workers + Queue  |1    |
+| [Лекция NP4.1](https://youtu.be/UpS5s4z6odo?si=a4xe8yusvBcZpzGm)  | [Лабораторная работа-10.2 ](10_apache_nginx/README.md)   | nginx  |1    |
+|  Семинар 8.1   |[Лабораторная работа-8.1](8_Assymmetric_ciphers_2022/README.md)  |  Lets_encrypt  | -    |
+| Лекция  | [Лабораторная работа-8.2 ](https://github.com/fa-python-network/7_Symmetric_ciphers)   | Основные алгоритмы синхронного шифрования  | 3    |
+| Домашнее задание 8.1  | [Лабораторная работа-8.3 ](https://github.com/fa-python-network/8_Assymmetric_ciphers)   | Алгоритмы асимметричного шифрования  | -    |
+| Домашнее задание NP2.2   | [Лабораторная работа-3.2 ](https://github.com/fa-python-network/4_asyncio_server) | Асинхронный сервер  | -    |
+|   [Лекция DO2.3](https://youtu.be/vd609d2Wc5E?si=-ejWPgaR3afhioZd)   |[Лабораторная работа-13.1 ](https://github.com/fa-python-network/9_flask_app)   |  Создание микросервиса  |5    |
+| Семинар DO2.3    | [Лабораторная работа-13.2 ](13_flask_app_2022/README.md)   |  1_echo_server в docker |-    |
+| Семинар DO2.3   | [Лабораторная работа-13.3 ](13_flask_app_2022/README.md)   |  5_FTP_server в docker |-    |
+| Семинар DO2.3   | [Лабораторная работа-13.4 ](13_flask_app_2022/README.md)   |  6_Web_server в docker |-    |
+|  Семинар DO2.4     |[Лабораторная работа-13.5 ](11_Celery_Rabbit/README.md)   | Celery_Rabbit  | -    |
+|  [Лекция NP4.3](https://youtu.be/ZyGfUllQ34I?si=5ZcWVlZNN-1_qucG)   |Лабораторная работа-11.1    | балансировка в docker  | 2    |
+|  Семинар DO2.5    |[Лабораторная работа-11.2 ](11_Celery_Rabbit/README.md)   | Celery Workers + Queue  |-    |
 | -   | -  | Тестовые опросы  | 5    | 
 
 
