@@ -307,3 +307,6 @@
 [submodule "pi22-3/tanya-pyzhyanova"]
 	path = pi22-3/tanya-pyzhyanova
 	url = https://github.com/Adrenaline22/tanya-pyzhyanova
+[submodule "pi22-2/Starikov_PI_22_2"]
+	path = pi22-2/Starikov_PI_22_2
+	url = https://github.com/Qwertysonman/Starikov_PI_22_2
