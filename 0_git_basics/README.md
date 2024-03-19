@@ -1,16 +1,35 @@
 # Семинарские занятия по теме git
 _____
 
-### Предварительная проверка установки и работы СКВ: 
+## Шпаргалка для нетерпеливых: 
+
+Инициализировать репо:
 ```
 cd project/
 git init
+```
+Добавить комментарий после изменения файла main.py:
+```
 git add main.py
 git commit -m "КАКОЙ-ТО КОММИТ"
 ```
 
-# Шпаргалка для нетерпеливых
+Заливаем на github
 
+      git push
+
+Сливаем с github
+
+      git pull
+
+Удаляем ненужное:
+
+      добавить venv/ в .gitignore
+      git rm -r --cached venv
+
+Добавить субмодуль в проект:
+
+      git submodule add https://github.com/fa-python-network/3_Parallelism
 
 ## Начало
 
@@ -23,10 +42,11 @@ git commit -m "КАКОЙ-ТО КОММИТ"
 
 
 Для дальнейшей работы с удаленным репозиторием указываем данные вашего аккаунта:
-
+```
 git config —-local user.name "John Doe"
 
 git config —-local user.email johndoe@example.com
+```
 
 1. Попробуй сделать изменение в файле binary_search.py
 2. git add binary_search.py 
