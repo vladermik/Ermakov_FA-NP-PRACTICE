@@ -310,3 +310,6 @@
 [submodule "pi22-2/Starikov_PI_22_2"]
 	path = pi22-2/Starikov_PI_22_2
 	url = https://github.com/Qwertysonman/Starikov_PI_22_2
+[submodule "erm"]
+	path = erm
+	url = https://github.com/vladermik/erm.git
