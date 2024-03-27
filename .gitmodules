@@ -211,11 +211,9 @@
 [submodule "pi22-4/boikova"]
 	path = pi22-4/boikova
 	url = https://github.com/boikova2604/boikova
-<<<<<<< HEAD
 [submodule "OAI"]
 	path = OAI
 	url = https://github.com/teenee0/OAI
-=======
 [submodule "pi22-1/Kosarev-fa-np-practice"]
 	path = pi22-1/Kosarev-fa-np-practice
 	url = https://github.com/Duoksi/Kosarev-fa-np-practice
@@ -318,4 +316,3 @@
 [submodule "erm"]
 	path = erm
 	url = https://github.com/vladermik/erm.git
->>>>>>> main
