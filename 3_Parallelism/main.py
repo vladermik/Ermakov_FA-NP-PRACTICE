@@ -3,9 +3,9 @@ import yaml
 import random
 from typing import List
 
-MATRIX1_FILE = "./data/matrix1.yml"
-MATRIX2_FILE = "./data/matrix2.yml"
-RESULT_FILE = "./data/result.yml"
+MATRIX1_FILE = "data/matrix1.yml"
+MATRIX2_FILE = "data/matrix2.yml"
+RESULT_FILE = "data/result.yml"
 
 
 def print_matrix(matrix: List[List[int]]) -> None:
@@ -22,7 +22,7 @@ def matrix_reader(file_name: str) -> List[List[int]]:
 
 def matrix_writer(matrix: List[List[int]], file_name: str) -> None:
     """Записывает матрицу в указанный файл"""
-    with open(file_name, "w") as file:
+    with open(file_name, "x") as file:
         yaml.safe_dump(matrix, file)
 
 
