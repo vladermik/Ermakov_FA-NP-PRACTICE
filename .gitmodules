@@ -316,3 +316,6 @@
 [submodule "erm"]
 	path = erm
 	url = https://github.com/vladermik/erm.git
+[submodule "Ermakov_7_TCP_server"]
+	path = Ermakov_7_TCP_server
+	url = https://github.com/vladermik/Ermakov_7_TCP_server
